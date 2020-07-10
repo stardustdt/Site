@@ -11,8 +11,8 @@ Falta:
 - [ ] Adicionar o ícone do Drones (está junto com os ionic icons svg)
 - [x] Adicionar cada integrante do técnico
 - [ ] Adicionar os integrantes da graduação
-- [ ] Colocar as imagens da nossa galeria
-- [ ] Adicionar os textos
+- [x] Colocar as imagens da nossa galeria
+- [x] Adicionar os textos
 - [x] Adicionar Aboutme
 - [ ] Alterar o formulário para um que seja full-free (vakinha embed?)
 - [x] Arrumar o favicon
