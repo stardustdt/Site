@@ -1,4 +1,5 @@
 # Site
+
 O site da nossa organização.
 
 ---
@@ -7,11 +8,13 @@ O site da nossa organização.
 
 Falta:
 
-- [ ] Trocar os Icones
-- [ ] Adicionar cada integrante da equipe
-- [ ] Colocar as imagens do nosso portfólio
+- [ ] Adicionar o ícone do Drones (está junto com os ionic icons svg)
+- [x] Adicionar cada integrante do técnico
+- [ ] Adicionar os integrantes da graduação
+- [ ] Colocar as imagens da nossa galeria
 - [ ] Adicionar os textos
-- [ ] Alterar o formulário para um que seja full-free
+- [x] Adicionar Aboutme
+- [ ] Alterar o formulário para um que seja full-free (vakinha embed?)
 - [ ] Arrumar o favicon
 - [ ] Arrumar as imagens de fundo
 
